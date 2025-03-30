@@ -1,1 +1,4 @@
-# MiSTdb_Retrieval
+MiST4.0 - Microbial Signal Transuction Database https://mistdb.com/
+Tens of thousands of genomes can be accessed through the online microbial signal transduction (MiST) database, which additionally enables users to explore their signal transduction profiles, investigate genomes in bulk using the database application programming interface (API), and produce testable hypotheses for the roles of recently discovered signalling systems.
+One Component System Proteins are abundant in quantity owing to its simple architecture of only two domains called as Input - Signalling domain and Output - Reciever domain. These are challenging to analyse at pan genomic level, because of its diversity in combinations of domains. Thereby to make sure our analysis have all the verified OCS proteins, we thought of deploying MiST REST API accoding to our dataset. 
+Ten self designed steps in achieving the One Component System Proteins via MiST API are uploaded in this repository for the reference.
