@@ -1,0 +1,2027 @@
+[
+  {
+    "data": {},
+    "id": 32869897,
+    "gene_id": 6110173,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "IclR": 1,
+      "HTH_IclR": 1
+    },
+    "inputs": [
+      "IclR"
+    ],
+    "outputs": [
+      "HTH_IclR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6110173,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869898,
+    "gene_id": 6110156,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "MerR": 1,
+      "MerR-DNA-bind": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "MerR",
+      "MerR-DNA-bind"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6110156,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869899,
+    "gene_id": 6110152,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "GntR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "GntR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6110152,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869902,
+    "gene_id": 6110110,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "SIS": 1,
+      "HTH_6": 1
+    },
+    "inputs": [
+      "SIS"
+    ],
+    "outputs": [
+      "HTH_6"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6110110,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869904,
+    "gene_id": 6110107,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "MerR_1": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "MerR_1"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6110107,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869905,
+    "gene_id": 6110071,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_3": 1,
+      "PBP_like": 1
+    },
+    "inputs": [
+      "PBP_like"
+    ],
+    "outputs": [
+      "HTH_3"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6110071,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869908,
+    "gene_id": 6110014,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "MarR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "MarR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6110014,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869909,
+    "gene_id": 6109922,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "TetR_N": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "TetR_N"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109922,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869910,
+    "gene_id": 6109865,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "EAL"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109865,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869911,
+    "gene_id": 6109855,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "MarR_2": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "MarR_2"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109855,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869912,
+    "gene_id": 6109794,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Arg_repressor": 1,
+      "Arg_repressor_C": 1
+    },
+    "inputs": [
+      "Arg_repressor_C"
+    ],
+    "outputs": [
+      "Arg_repressor"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109794,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869913,
+    "gene_id": 6109766,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_17": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_17"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109766,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869914,
+    "gene_id": 6109743,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "GntR": 1,
+      "UTRA": 1
+    },
+    "inputs": [
+      "UTRA"
+    ],
+    "outputs": [
+      "GntR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109743,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869915,
+    "gene_id": 6109646,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1,
+      "GAF": 1,
+      "GGDEF": 1
+    },
+    "inputs": [
+      "GAF"
+    ],
+    "outputs": [
+      "EAL",
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109646,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869917,
+    "gene_id": 6109597,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "CsrA": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "CsrA"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109597,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869918,
+    "gene_id": 6109588,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "PAS": 1,
+      "GGDEF": 1
+    },
+    "inputs": [
+      "PAS"
+    ],
+    "outputs": [
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109588,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869919,
+    "gene_id": 6109587,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1,
+      "GGDEF": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "EAL",
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109587,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869920,
+    "gene_id": 6109570,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "FUR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "FUR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109570,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869921,
+    "gene_id": 6109569,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Rrf2": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Rrf2"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109569,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869924,
+    "gene_id": 6109560,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_1": 1,
+      "LysR_substrate": 1
+    },
+    "inputs": [
+      "LysR_substrate"
+    ],
+    "outputs": [
+      "HTH_1"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109560,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869925,
+    "gene_id": 6109556,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_5": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_5"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109556,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869926,
+    "gene_id": 6109555,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "TetR_N": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "TetR_N"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109555,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869927,
+    "gene_id": 6109529,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_6": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_6"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109529,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869928,
+    "gene_id": 6109992,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_5": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_5"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109992,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869929,
+    "gene_id": 6109986,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "TetR_N": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "TetR_N"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109986,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869931,
+    "gene_id": 6109519,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "EAL"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109519,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869932,
+    "gene_id": 6109518,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "EAL"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109518,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869933,
+    "gene_id": 6109497,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1,
+      "GGDEF": 1,
+      "Protoglobin": 1
+    },
+    "inputs": [
+      "Protoglobin"
+    ],
+    "outputs": [
+      "EAL",
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109497,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869934,
+    "gene_id": 6109484,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "TetR_N": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "TetR_N"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109484,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869935,
+    "gene_id": 6109477,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "PadR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "PadR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109477,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869936,
+    "gene_id": 6109435,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "FCD": 1,
+      "GntR": 1
+    },
+    "inputs": [
+      "FCD"
+    ],
+    "outputs": [
+      "GntR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109435,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869938,
+    "gene_id": 6109398,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_3": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_3"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109398,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869939,
+    "gene_id": 6109379,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_17": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_17"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109379,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869940,
+    "gene_id": 6109367,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Sigma70_r2": 1,
+      "Sigma70_r3": 1,
+      "Sigma70_r4": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Sigma70_r2",
+      "Sigma70_r3",
+      "Sigma70_r4"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109367,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869942,
+    "gene_id": 6109311,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Sigma70_r2": 1,
+      "Sigma70_r3": 1,
+      "Sigma70_r4": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Sigma70_r2",
+      "Sigma70_r3",
+      "Sigma70_r4"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109311,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869943,
+    "gene_id": 6109302,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Rrf2": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Rrf2"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109302,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869944,
+    "gene_id": 6109294,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "GAF": 1,
+      "GGDEF": 1
+    },
+    "inputs": [
+      "GAF"
+    ],
+    "outputs": [
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109294,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869948,
+    "gene_id": 6109679,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Pkinase": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Pkinase"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109679,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869953,
+    "gene_id": 6109275,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_5": 1,
+      "Rhodanese": 1
+    },
+    "inputs": [
+      "Rhodanese"
+    ],
+    "outputs": [
+      "HTH_5"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109275,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869954,
+    "gene_id": 6109254,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1,
+      "GGDEF": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "EAL",
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109254,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869955,
+    "gene_id": 6109223,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "MerR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "MerR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109223,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869956,
+    "gene_id": 6109198,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1,
+      "GGDEF": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "EAL",
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109198,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869960,
+    "gene_id": 6109173,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "GGDEF": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109173,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869961,
+    "gene_id": 6109135,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "TetR_C": 1,
+      "TetR_N": 1
+    },
+    "inputs": [
+      "TetR_C"
+    ],
+    "outputs": [
+      "TetR_N"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109135,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869962,
+    "gene_id": 6109132,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "MarR_2": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "MarR_2"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109132,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869963,
+    "gene_id": 6109123,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "TetR_N": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "TetR_N"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109123,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869964,
+    "gene_id": 6109090,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "LacI": 1,
+      "Peripla_BP_3": 1
+    },
+    "inputs": [
+      "Peripla_BP_3"
+    ],
+    "outputs": [
+      "LacI"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109090,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869966,
+    "gene_id": 6109448,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_20": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_20"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109448,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869967,
+    "gene_id": 6109441,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "LacI": 1,
+      "Peripla_BP_3": 1
+    },
+    "inputs": [
+      "Peripla_BP_3"
+    ],
+    "outputs": [
+      "LacI"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109441,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869968,
+    "gene_id": 6109037,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "GntR": 1,
+      "Aminotran_1_2": 1
+    },
+    "inputs": [
+      "Aminotran_1_2"
+    ],
+    "outputs": [
+      "GntR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6109037,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869969,
+    "gene_id": 6108966,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Pkinase": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Pkinase"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108966,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869971,
+    "gene_id": 6108915,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1,
+      "GGDEF": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "EAL",
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108915,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869977,
+    "gene_id": 6108708,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Sigma70_r2": 1,
+      "Sigma70_r3": 1,
+      "Sigma70_r4": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Sigma70_r2",
+      "Sigma70_r3",
+      "Sigma70_r4"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108708,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869978,
+    "gene_id": 6108667,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "MarR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "MarR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108667,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869980,
+    "gene_id": 6108656,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_AsnC-type": 1,
+      "AsnC_trans_reg": 1
+    },
+    "inputs": [
+      "AsnC_trans_reg"
+    ],
+    "outputs": [
+      "HTH_AsnC-type"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108656,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869987,
+    "gene_id": 6108425,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_20": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_20"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108425,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869990,
+    "gene_id": 6108409,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "TetR_N": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "TetR_N"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108409,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869991,
+    "gene_id": 6108387,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_5": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_5"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108387,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869992,
+    "gene_id": 6108373,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "FUR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "FUR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108373,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869995,
+    "gene_id": 6108351,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_31": 1,
+      "Cupin_2": 1
+    },
+    "inputs": [
+      "Cupin_2"
+    ],
+    "outputs": [
+      "HTH_31"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108351,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869996,
+    "gene_id": 6108754,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "LexA_DNA_bind": 1,
+      "Peptidase_S24": 1
+    },
+    "inputs": [
+      "Peptidase_S24"
+    ],
+    "outputs": [
+      "LexA_DNA_bind"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108754,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869997,
+    "gene_id": 6108749,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_29": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "HTH_29"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108749,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869998,
+    "gene_id": 6108325,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Sigma70_r2": 1,
+      "Sigma70_r3": 1,
+      "Sigma70_r4": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Sigma70_r2",
+      "Sigma70_r3",
+      "Sigma70_r4"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108325,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32869999,
+    "gene_id": 6108318,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Trans_reg_C": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Trans_reg_C"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108318,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870001,
+    "gene_id": 6108298,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "GGDEF": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108298,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870003,
+    "gene_id": 6108290,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "FCD": 1,
+      "GntR": 1
+    },
+    "inputs": [
+      "FCD"
+    ],
+    "outputs": [
+      "GntR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108290,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870008,
+    "gene_id": 6108285,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "CsrA": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "CsrA"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108285,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870011,
+    "gene_id": 6108272,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "FUR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "FUR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108272,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870012,
+    "gene_id": 6108255,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "GGDEF": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "GGDEF"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108255,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870015,
+    "gene_id": 6108250,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_1": 1,
+      "LysR_substrate": 1
+    },
+    "inputs": [
+      "LysR_substrate"
+    ],
+    "outputs": [
+      "HTH_1"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108250,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870016,
+    "gene_id": 6108243,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "LacI": 1,
+      "Peripla_BP_3": 1
+    },
+    "inputs": [
+      "Peripla_BP_3"
+    ],
+    "outputs": [
+      "LacI"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108243,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870017,
+    "gene_id": 6108157,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "SpoIIE": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "SpoIIE"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108157,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870018,
+    "gene_id": 6108155,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Pkinase": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Pkinase"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108155,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870019,
+    "gene_id": 6108154,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "Pkinase": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "Pkinase"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108154,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870020,
+    "gene_id": 6108141,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "MarR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "MarR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108141,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870023,
+    "gene_id": 6108127,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "TetR_N": 1,
+      "TetR_C_11": 1
+    },
+    "inputs": [
+      "TetR_C_11"
+    ],
+    "outputs": [
+      "TetR_N"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108127,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870024,
+    "gene_id": 6108516,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_1": 1,
+      "LysR_substrate": 1
+    },
+    "inputs": [
+      "LysR_substrate"
+    ],
+    "outputs": [
+      "HTH_1"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108516,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870025,
+    "gene_id": 6108105,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "PadR": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "PadR"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108105,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870026,
+    "gene_id": 6108100,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "HTH_3": 1,
+      "NTP_transf_2": 1
+    },
+    "inputs": [
+      "NTP_transf_2"
+    ],
+    "outputs": [
+      "HTH_3"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108100,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  },
+  {
+    "data": {},
+    "id": 32870027,
+    "gene_id": 6108089,
+    "component_id": 63673,
+    "signal_domains_version": 1,
+    "ranks": [
+      "ocp"
+    ],
+    "counts": {
+      "EAL": 1
+    },
+    "inputs": [],
+    "outputs": [
+      "EAL"
+    ],
+    "ComponentId": 63673,
+    "GeneId": 6108089,
+    "Component": {
+      "name": "ANONYMOUS",
+      "version": "NC_013124.1",
+      "definition": "Acidimicrobium ferrooxidans DSM 10331, complete genome."
+    }
+  }
+]
